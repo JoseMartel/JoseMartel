@@ -103,7 +103,7 @@ Firmware Engineer with **4+ years of experience** building embedded systems from
 
 - 📧 **Email:** [ee.josemartel@gmail.com](mailto:ee.josemartel@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/josemartel](https://www.linkedin.com/in/josemartel)
-- 🌐 **Portfolio:** [JoseMartel.github.io/JoseMartel](https://JoseMartel.github.io/JoseMartel/)
+- 🌐 **Portfolio:** [josemartel.github.io/me](https://josemartel.github.io/me)
 
 ---
 ⭐️ *Feel free to reach out if you'd like to collaborate or just chat about embedded tech!*
