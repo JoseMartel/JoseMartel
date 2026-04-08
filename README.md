@@ -7,7 +7,13 @@
 
 ## 👨‍💻 About Me
 
-Firmware Engineer with **4+ years of experience** building embedded systems from low-level drivers to cloud-connected IoT platforms. I specialize in designing scalable firmware architectures, integrating hardware and software, and delivering real-world solutions for industrial and connected devices.
+I don’t just write firmware, I build the bridge between code and the real world.
+
+My path has been shaped by constant challenges: moving across countries, adapting to new environments, and taking on increasingly complex systems. I chose embedded engineering because I wanted to work where software meets physics, where every decision has a tangible impact.
+
+With 4+ years of experience, I’ve built systems end-to-end, from low-level drivers to cloud-connected IoT platforms. But beyond the tech, what defines me is resilience, adaptability, and a strong drive to turn ideas into reliable, real-world solutions.
+
+I’m driven by challenges, continuous learning, and the ambition to build technology that actually matters.
 
 **My work focuses on:**
 - 🔄 **Transformation:** Turning legacy hardware into scalable, connected systems.
